@@ -1,1 +1,1 @@
-datapath = '/Users/matthew/Documents/kern/corpus/'
+datapath = '/Users/matthew/PycharmProjects/kern/data/'
