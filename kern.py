@@ -78,7 +78,7 @@ class Measure:
                 j += 1
             else:
                 break
-        #         
+        #
         # for j in range(i, len(enc)):
         #     if enc[j] != enc[i]:
         #         break
